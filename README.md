@@ -1,27 +1,20 @@
 ## Hi, my name is Victor Mielke 👋 and this is my perfil!💻💻
 
-<h3> I’m currently learning </h3>
+<h3>🌱 I’m currently working with: 🌱</h3>
 <div>
-  <img alt="html" height="20" width="30" src="./imgs/html5-original.svg">
-  <img alt="css" height="20" width="30" src="./imgs/css3-original.svg">
-  <img alt="Js" height="20" width="30" src="./imgs/javascript-plain.svg">
-  <img alt="ts" height="20" width="30" src="./imgs/typescript-plain.svg">
-  <img alt="react" height="20" width="30" src="./imgs/react-original.svg">
+  <img alt="html" height="30" width="40" src="./imgs/html5-original.svg">
+  <img alt="css" height="30" width="40" src="./imgs/css3-original.svg">
+  <img alt="Js" height="30" width="40" src="./imgs/javascript-plain.svg">
+  <img alt="ts" height="30" width="40" src="./imgs/typescript-plain.svg">
+  <img alt="react" height="30" width="40" src="./imgs/react-original.svg">
 </div>
 
+</br>
+</br>
 
+<h3> 📱 contact me 📱 </h3>
 
-<!--
-**vicemanu/vicemanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱  ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <img alt="linkedin victor mielke" src="./imgs/in.svg">
+  <img alt="instagram victor mielke" src="./imgs/inst.svg">
+</div>
