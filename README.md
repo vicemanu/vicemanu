@@ -12,7 +12,7 @@
 </br>
 </br>
 
-<h3> 📱 contact me 📱 </h3>
+<h3> 📱 CONTACT ME 📱 </h3>
 
 <div> 
   <img alt="linkedin victor mielke" src="./imgs/in.svg">
