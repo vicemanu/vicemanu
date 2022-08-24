@@ -2,7 +2,6 @@
 
 <h3>🌱 I’m currently working with: 🌱</h3>
 <div>
-  <img alt="" height="30" width="20" src="./imgs/espaçovazio.png">
   <img alt="html" height="30" width="40" src="./imgs/html5-original.svg">
   <img alt="css" height="30" width="40" src="./imgs/css3-original.svg">
   <img alt="Js" height="30" width="40" src="./imgs/javascript-plain.svg">
