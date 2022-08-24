@@ -1,6 +1,12 @@
-## Hi, my name is Victor Mielke 👋 and this is my perfil!💬💬
+## Hi, my name is Victor Mielke 👋 and this is my perfil!💻💻
 
-### I’m currently learning
+<h3> I’m currently learning </h3>
+<div>
+  <img alt="html" height="20" width="30" src="">
+  <img alt="css" height="20" width="30" src="">
+  <img alt="Js" height="20" width="30" src="">
+  <img alt="react" height="20" width="30" src="">
+</div>
 
 
 
