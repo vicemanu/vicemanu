@@ -2,10 +2,11 @@
 
 <h3> I’m currently learning </h3>
 <div>
-  <img alt="html" height="20" width="30" src="">
-  <img alt="css" height="20" width="30" src="">
-  <img alt="Js" height="20" width="30" src="">
-  <img alt="react" height="20" width="30" src="">
+  <img alt="html" height="20" width="30" src="./imgs/html5-original.svg">
+  <img alt="css" height="20" width="30" src="./imgs/css3-original.svg">
+  <img alt="Js" height="20" width="30" src="./imgs/javascript-plain.svg">
+  <img alt="ts" height="20" width="30" src="./imgs/typescript-plain.svg">
+  <img alt="react" height="20" width="30" src="./imgs/react-original.svg">
 </div>
 
 
