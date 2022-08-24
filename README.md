@@ -15,6 +15,6 @@
 <h3> 📱 CONTACT ME 📱 </h3>
 
 <div> 
-  <a href="https://www.linkedin.com/in/victor-mielke/" alt="linkedin victor mielke" src="./imgs/in.svg">
-  <a href="https://www.instagram.com/victor_mielke31/" alt="instagram victor mielke" src="./imgs/inst.svg">
+  <a href="https://www.linkedin.com/in/victor-mielke/"><img alt="linkedin victor mielke" src="./imgs/in.svg"> </a>
+  <a href="https://www.instagram.com/victor_mielke31/"><img alt="instagram victor mielke" src="./imgs/inst.svg"></a>
 </div>
