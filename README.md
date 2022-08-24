@@ -16,5 +16,5 @@
 
 <div> 
   <img alt="linkedin victor mielke" src="./imgs/in.svg">
-  <img alt="instagram victor mielke" src="./imgs/inst.svg">
+  <img style="margin-top: 3px;" alt="instagram victor mielke" src="./imgs/inst.svg">
 </div>
